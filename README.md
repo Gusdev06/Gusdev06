@@ -1,10 +1,6 @@
 ### Hello world!! 👋
 
 
-### Detalhes
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusdev06&show_icons=true&theme=codeSTACKr)]
-
 
 ### Sobre o Gustavo
 
