@@ -5,6 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusdev06&show_icons=true&theme=codeSTACKr)]
 
+
 ### Sobre o Gustavo
 
 Meu Nome é Gustavo Gomes, tenho 18 anos e Durante grande parte da minha adolescência, atuei como jogador profissional de basquete, desenvolvendo habilidades fundamentais para o esporte, tais como trabalho em equipe, resiliência e disciplina.
