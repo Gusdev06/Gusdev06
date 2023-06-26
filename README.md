@@ -1,15 +1,14 @@
-### Hello world!! 👋
+### Welcome!! 👋
 
 
 
-### Sobre o Gustavo
+### About Gustavo
+My name is Gustavo Gomes, I'm 18 years old, and for a large part of my adolescence, I was a professional basketball player, developing fundamental skills for the sport, such as teamwork, resilience, and discipline.
 
-Meu Nome é Gustavo Gomes, tenho 18 anos e Durante grande parte da minha adolescência, atuei como jogador profissional de basquete, desenvolvendo habilidades fundamentais para o esporte, tais como trabalho em equipe, resiliência e disciplina.
+However, the field of technology has always been a passion in my life, and at a certain point, I decided to pursue this path.
 
-No entanto, a área da tecnologia sempre foi uma paixão presente em minha vida e, em determinado momento, decidi seguir por esse caminho.
+I started delving into programming and began my journey in a Full Stack Python Developer course, and since then, I have felt extremely motivated.
 
-Comecei a me aprofundar em programação e iniciei minha jornada no curso de Desenvolvedor Fullstack Python, e desde então tenho me sentido extremamente motivado.
+Considering the great success of this transition, my goal is to specialize in Full Stack development.
 
-Tendo em vista o grande sucesso dessa transição, meu objetivo é me especializar em Fullstack.
-
-Neste momento, possuo habilidades em tecnologias relacionadas ao Front-end.
+At this moment, I possess skills in technologies related to Front-end.
