@@ -2,7 +2,7 @@
 <h1 align="left">Hi , I'm Gustavo Gomes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gusdev06&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 front end developer student
+- 🔥 front end developer
 
 - ### About Gustavo
 My name is Gustavo Gomes, I'm 18 years old, and for a large part of my adolescence, I was a professional basketball player, developing fundamental skills for the sport, such as teamwork, resilience, and discipline.
