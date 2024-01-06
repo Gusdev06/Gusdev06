@@ -5,15 +5,35 @@
 - 🔥 front end developer
 
 - ### About Gustavo
-My name is Gustavo Gomes, I'm 18 years old, and for a large part of my adolescence, I was a professional basketball player, developing fundamental skills for the sport, such as teamwork, resilience, and discipline.
+Desenvolvedor Full Stack 
 
-However, the field of technology has always been a passion in my life, and at a certain point, I decided to pursue this path.
+Trabalhando  com JavaScript desde 2022, com experiência no desenvolvimento de sites com Node.js/Nest.js e React.js/Next.js.
 
-I started delving into programming and began my journey in a Full Stack Python Developer course, and since then, I have felt extremely motivated.
+Sou um profissional dedicado e esforçado, tenho uma paixão profunda por resolver problemas complexos. Minha carreira tem sido pautada pela busca constante de soluções inovadoras em diversos contextos. 
 
-Considering the great success of this transition, my goal is to specialize in Full Stack development.
+- Desenvolvimento, teste e manutenção de aplicações de software existentes;
+- Criação de APIs avançadas com as mais recentes tecnologias de mercado, aderindo às arquiteturas de ponta para otimização e eficiência.
+- Desenvolvimento full-stack abrangente, desde interfaces de usuário elegantes e intuitivas no front-end até soluções robustas e eficientes no back-end.
 
-At this moment, I possess skills in technologies related to Front-end.
+Habilidades Técnicas:
+• JavaScript;
+• TypeScript;
+• ReactJS;
+• NextJS;
+• NodeJS;
+• NestJS;
+• Tailwind;
+• PrismaORM;
+• SQL;
+• Git;
+• AWS
+
+
+Qualidades Pessoais:
+• Aprendizagem rápida;
+• Organizado;
+• Bom em solucionar problemas;
+
 
 <br><br>
 
