@@ -2,7 +2,7 @@
 <h1 align="left">Hi , I'm Gustavo Gomes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gusdev06&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 front end developer
+- 🔥 full stack developer
 
 - ### About Gustavo
 Desenvolvedor Full Stack 
