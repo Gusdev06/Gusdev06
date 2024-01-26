@@ -2,37 +2,21 @@
 <h1 align="left">Hi , I'm Gustavo Gomes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gusdev06&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 full stack developer
 
 - ### About Gustavo
+
 Desenvolvedor Full Stack 
 
-Trabalhando  com JavaScript desde 2022, com experiência no desenvolvimento de sites com Node.js/Nest.js e React.js/Next.js.
-
+Ola!! Sou um Desenvolvedor que trabalha com JavaScript e TypeScript desde 2022, com experiência no desenvolvimento de sites com Node.js/Nest.js e React.js/Next.js.
 Sou um profissional dedicado e esforçado, tenho uma paixão profunda por resolver problemas complexos. Minha carreira tem sido pautada pela busca constante de soluções inovadoras em diversos contextos. 
 
+O que eu Ofereço:
+
 - Desenvolvimento, teste e manutenção de aplicações de software existentes;
+
 - Criação de APIs avançadas com as mais recentes tecnologias de mercado, aderindo às arquiteturas de ponta para otimização e eficiência.
-- Desenvolvimento full-stack abrangente, desde interfaces de usuário elegantes e intuitivas no front-end até soluções robustas e eficientes no back-end.
 
-Habilidades Técnicas:
-• JavaScript;
-• TypeScript;
-• ReactJS;
-• NextJS;
-• NodeJS;
-• NestJS;
-• Tailwind;
-• PrismaORM;
-• SQL;
-• Git;
-• AWS
-
-
-Qualidades Pessoais:
-• Aprendizagem rápida;
-• Organizado;
-• Bom em solucionar problemas;
+- Desenvolvimento full-stack abrangente, desde interfaces de usuário elegantes e intuitivas no front-end até soluções robustas e eficientes no back-end.;
 
 
 <br><br>
