@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Gusdev06/a2a5dc47ec90bd1c7416b4c739e5e2a7/raw/79cd0d71cdbc6e0b99056be4e7e058ddc3fd43f9/githubcard.svg"/>
 <h1 align="left">Ola, meu nome e Gustavo Gomes</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gusdev06&color=yellow" alt="Profile views" /> </p>
+
 
 
 - ### About Gustavo
@@ -45,9 +45,6 @@ Tenho experiência como desenvolvedor Backend, lidando com metodologias de desen
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/Gusdev06" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Gusdev06-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/_gustaagomes_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-_gustaagomes_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
