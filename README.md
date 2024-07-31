@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Gusdev06/a2a5dc47ec90bd1c7416b4c739e5e2a7/raw/79cd0d71cdbc6e0b99056be4e7e058ddc3fd43f9/githubcard.svg"/>
+
 <h1 align="left">Ola, meu nome e Gustavo Gomes</h1>
 
 
