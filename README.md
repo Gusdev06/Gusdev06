@@ -1,22 +1,15 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Gusdev06/a2a5dc47ec90bd1c7416b4c739e5e2a7/raw/79cd0d71cdbc6e0b99056be4e7e058ddc3fd43f9/githubcard.svg"/>
-<h1 align="left">Hi , I'm Gustavo Gomes</h1>
+<h1 align="left">Ola, meu nome e Gustavo Gomes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gusdev06&color=yellow" alt="Profile views" /> </p>
 
 
 - ### About Gustavo
 
-Desenvolvedor Full Stack 
+Desenvolvedor Backend
 
-Ola!! Sou um Desenvolvedor que trabalha com JavaScript e TypeScript desde 2022, com experiência no desenvolvimento de sites com Node.js/Nest.js e React.js/Next.js.
-Sou um profissional dedicado e esforçado, tenho uma paixão profunda por resolver problemas complexos. Minha carreira tem sido pautada pela busca constante de soluções inovadoras em diversos contextos. 
+Atualmente atuo no desenho de soluções e desenvolvimento de aplicações que tem impacto direto no dia a dia de milhões de usuários, com foco em escalabilidade, disponibilidade, consistência e desempenho.
 
-O que eu Ofereço:
-
-- Desenvolvimento, teste e manutenção de aplicações de software existentes;
-
-- Criação de APIs avançadas com as mais recentes tecnologias de mercado, aderindo às arquiteturas de ponta para otimização e eficiência.
-
-- Desenvolvimento full-stack abrangente, desde interfaces de usuário elegantes e intuitivas no front-end até soluções robustas e eficientes no back-end.;
+Tenho experiência como desenvolvedor Backend, lidando com metodologias de desenvolvimento ágil e as mais diversas tecnologias, entre elas: NodeJs, NestJs, APIs (REST), Docker, Kubernetes, git, arquitetura de microsserviços, messageria (Kafka, SQS, SNS) Banco de dados(MySQL, PostgreSQL), testes(Junit5, Mockito), Servicos cloud (GCP, Cloud run, Cloud functions, Cloud build, AWS EC2, AWS RDS, AWS S3)... e o que mais for necessário, afinal tecnologias são apenas ferramentas para resolver problemas do mundo real.
 
 
 <br><br>
